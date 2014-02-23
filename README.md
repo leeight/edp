@@ -89,3 +89,7 @@ edp已经发布到npm上，可以通过下面的npm命令安装。`-g`选项是�
 - [update](doc/cli/update.md)
 - [watch](doc/cli/watch.md)
 - [webserver](doc/cli/webserver.md)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/leeight/edp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
